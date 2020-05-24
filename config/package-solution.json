@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "material-ui-stepper-client-side-solution",
+    "id": "0579f45c-0ccc-4c85-95d0-baa4e7de53dd",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/material-ui-stepper.sppkg"
+  }
+}
